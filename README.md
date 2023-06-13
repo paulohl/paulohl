@@ -1,14 +1,15 @@
 ### Hi there 👋
 
+# The Degrees:
 ## Electronics and Computer Sciences Engineer
 ## Masters in International Business
 ## Postgraduate in Data Sciences (certificate)
 
-
+## The current work:
 ### Working on Smart Cities and Public Sector Digital Transformation for local and central goverments of Asia, Africa, Cenfral America and the Middle East.
 
 
-##  The Hobbies
+##  The Hobbies:
 ### King Crimson
 ### Precious metals recovering and refining
 ### Research + Publishing
