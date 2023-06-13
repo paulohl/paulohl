@@ -3,11 +3,10 @@
 
 
 
-![alt text](https://1drv.ms/i/s!AnwRstnGTcBHoccams6N9FvjT24TSA "Me and the Venusian Incas")
+![alt text](https://github.com/paulohl/paulohl/blob/main/IMAGE_011.jpg "Me and the Venusian Incas")
 
 
 
-![alt text](https://https://photos.onedrive.com/share/47C04DC6D9B2117C!549786?cid=47C04DC6D9B2117C&authkey=!AJrOjfRb409uE0g&ithint=photo "Logo Title Text 1")
 
 
 
