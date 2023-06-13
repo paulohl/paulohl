@@ -3,7 +3,7 @@
 
 
 
-![alt text](https://github.com/paulohl/paulohl/blob/main/IMAGE_011.jpg "Me and the Venusian Incas")
+![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas")
 
 
 
