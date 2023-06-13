@@ -4,7 +4,9 @@ The Degrees:
   ===========
 ## Electronics and Computer Sciences Engineer
 ## Masters in International Business
-## Postgraduate in Data Sciences (certificate)               
+## Postgraduate in Data Sciences (certificate)    
+
+![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas") 
 
 The current work:
    =================
@@ -21,7 +23,7 @@ The Hobbies:
 ### Precious metals recovering and refining
 ### Research + Publishing    
 
-![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas")    
+   
 
  <!--
 **paulohl/paulohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
