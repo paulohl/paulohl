@@ -1,21 +1,27 @@
 ### Hi there 👋
 
-# The Degrees:
+The Degrees:
+  ===========
 ## Electronics and Computer Sciences Engineer
 ## Masters in International Business
-## Postgraduate in Data Sciences (certificate)
+## Postgraduate in Data Sciences (certificate)               
 
-## The current work:
+The current work:
+   =================
 ### Working on Smart Cities and Public Sector Digital Transformation for local and central goverments of Asia, Africa, Cenfral America and the Middle East.
 
+![alt text](https://smartway2.com/wp-content/uploads/2021/01/digital-transformation-resized-image.jpg "Digital Transformation")     
 
-##  The Hobbies:
-### King Crimson
+The Hobbies:
+----------------
+### King Crimson          
+![alt text][logo]
+
+[logo]: https://www.dgmlive.com/img/assets/footer/Footer_Logo.png " DGM Live "
 ### Precious metals recovering and refining
-### Research + Publishing
+### Research + Publishing    
 
-
-![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas")
+![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas")    
 
  <!--
 **paulohl/paulohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
