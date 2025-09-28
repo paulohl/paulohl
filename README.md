@@ -1,22 +1,22 @@
-### Hi there 👋
+__Hi there__ 👋
 
-The Degrees:
-  ===========
-## Electronics and Computer Sciences Engineer
-## Masters in International Business
-## Postgraduate in Data Sciences (certificate)    
+#### The Degrees:
+  
+  -__Electronics and Computer Sciences Engineer__\
+  -__Masters in International Business__\
+  -__Postgraduate in Data Sciences (certificate)__
 
 ![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas") 
 
-The current work:
-   =================
-### Working on Smart Cities and Public Sector Digital Transformation for local and central goverments of Asia, Africa, Cenfral America and the Middle East.
+#### The current work:
+   
+__Working on Smart Cities and Public Sector Digital Transformation for local and central goverments of Asia, Africa, Cenfral America and the Middle East.__
 
 ![alt text](https://smartway2.com/wp-content/uploads/2021/01/digital-transformation-resized-image.jpg "Digital Transformation")     
 
-The Hobbies:
-----------------
-### King Crimson          
+#### The Hobbies:
+
+__King Crimson__          
 ![alt text][logo]
 
 [logo]: https://www.dgmlive.com/img/assets/footer/Footer_Logo.png " DGM Live "
