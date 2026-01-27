@@ -1,0 +1,7 @@
+500-Character Ultra-Short Bio
+
+(Web footers, GitHub profiles, grant forms)
+
+Paulo H. Leocadio is a Computer Sciences Engineer, AI and LLM researcher, and Data Scientist with 40+ years of experience from hardware engineering and embedded systems to large-scale cloud platforms and autonomous AI architectures. His work focuses on LLMs, diffusion models, agentic systems, and AI as operational infrastructure.
+
+📧 ph@sculpit.xyz
