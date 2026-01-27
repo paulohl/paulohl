@@ -1,0 +1,7 @@
+One-Sentence Identifier
+
+(Licensing headers, copyright pages, repositories)Identifier
+
+(Licensing headers, copyright pages, repositories)
+
+Paulo H. Leocadio is a Computer Sciences Engineer, AI and LLM researcher, and Data Scientist specializing in large-scale systems, diffusion models, and autonomous AI architectures.
