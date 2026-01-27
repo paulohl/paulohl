@@ -12,7 +12,10 @@ I work at the intersection of __computer science__, __artificial intelligence__,
 
 My current work centers on __Smart Cities__ and __public-sector digital transformation__, advising and designing AI-enabled and data-driven systems for __local and central governments__ across __Asia, Africa, Central America, and the Middle East__.
 
-I approach AI as infrastructure, not product—emphasizing architecture, observability, governance, and long-term sustainability over demos and trends.
+I approach AI as infrastructure, not product—emphasizing architecture, observability, governance, and long-term sustainability over demos and trends.      
+
+______      
+
 
 ## Background (compressed, but real)      
 
@@ -32,10 +35,16 @@ ______
 - AI observability, governance, and control
 - Data-driven decision systems for institutions
 
+
+_______      
+
 ## Writing & research
 
 I write and publish on AI systems, diffusion models, and applied architectures, with an emphasis on __engineering rigor__ and __deployment reality__.</br>
-If a system cannot be operated, audited, or sustained, I consider it incomplete.
+If a system cannot be operated, audited, or sustained, I consider it incomplete.      
+
+______      
+
 
 ### Outside the keyboard
 
@@ -52,7 +61,7 @@ If a system cannot be operated, audited, or sustained, I consider it incomplete.
 I build systems, not trends. And I lack patience for low-entropy emotional exchanges.       
 
 </br>
-</br>
+</br></br>
 
 ![alt text](https://github.com/paulohl/paulohl/blob/main/img/IMAGE_011.jpg "Me and the Venusian Incas") 
 
