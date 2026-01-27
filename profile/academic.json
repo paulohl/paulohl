@@ -1,0 +1,45 @@
+{
+  "name": "Paulo H. Leocadio",
+  "roles": [
+    "Computer Sciences Engineer",
+    "AI and LLM Researcher",
+    "Data Scientist"
+  ],
+  "email": "ph@sculpit.xyz",
+  "core_focus": [
+    "Artificial Intelligence Systems",
+    "Large Language Models",
+    "Diffusion Models",
+    "Autonomous and Agentic Systems",
+    "Data Science and Analytics",
+    "Systems and Infrastructure Architecture"
+  ],
+  "summary": "Computer Sciences Engineer, AI and LLM researcher, and Data Scientist with over four decades of experience spanning hardware engineering, systems software, cloud platforms, and applied artificial intelligence.",
+  "engineering_background": {
+    "early_focus": [
+      "x86-compatible hardware design",
+      "Embedded systems",
+      "Device drivers",
+      "Industrial automation",
+      "Medical instrumentation"
+    ],
+    "principle": "First-principles engineering across the full computational stack"
+  },
+  "current_research": [
+    "Transformer-based architectures",
+    "Diffusion models",
+    "Agentic AI systems",
+    "AI observability and governance",
+    "AI as operational infrastructure"
+  ],
+  "philosophy": [
+    "Systems must be understood end-to-end",
+    "Models are components, not solutions",
+    "AI without governance is technical debt"
+  ],
+  "activities": [
+    "Independent research and authorship",
+    "Advising governments and institutions",
+    "Scholarly publishing and peer review"
+  ]
+}
