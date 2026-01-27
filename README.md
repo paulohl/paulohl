@@ -1,12 +1,12 @@
-le.
 
-👋 Hi, I’m Paulo
 
-Computer Sciences Engineer · AI & LLM Researcher · Data Scientist
-Independent researcher and author
-📫 ph@sculpit.xyz
+# 👋 Hi, I’m Paulo
 
-What I do
+Computer Sciences Engineer · AI & LLM Researcher · Data Scientist       
+Independent researcher and author      
+📫 ph@sculpit.xyz      
+
+## What I do
 
 I work at the intersection of computer science, artificial intelligence, and data science, with a focus on systems that operate under real-world constraints.
 
