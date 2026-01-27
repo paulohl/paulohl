@@ -8,37 +8,33 @@ Independent researcher and author
 
 ## What I do
 
-I work at the intersection of computer science, artificial intelligence, and data science, with a focus on systems that operate under real-world constraints.
+I work at the intersection of __computer science__, __artificial intelligence__, and __data science__, with a focus on systems that operate under real-world constraints.
 
-My current work centers on Smart Cities and public-sector digital transformation, advising and designing AI-enabled and data-driven systems for local and central governments across Asia, Africa, Central America, and the Middle East.
+My current work centers on __Smart Cities__ and __public-sector digital transformation__, advising and designing AI-enabled and data-driven systems for __local and central governments__ across __Asia, Africa, Central America, and the Middle East__.
 
 I approach AI as infrastructure, not product—emphasizing architecture, observability, governance, and long-term sustainability over demos and trends.
 
-Background (compressed, but real)
+## Background (compressed, but real)      
 
-Electronics & Computer Sciences Engineer
+- __Electronics & Computer Sciences Engineer__
+- __Master’s in International Business__
+- __Postgraduate specialization in Data Science__
 
-Master’s in International Business
+I started my career close to the metal—hardware, embedded systems, device drivers, and followed computing as it scaled upward: distributed systems, enterprise platforms, cloud infrastructure, and now autonomous AI systems.      
 
-Postgraduate specialization in Data Science
+______
 
-I started my career close to the metal—hardware, embedded systems, device drivers—and followed computing as it scaled upward: distributed systems, enterprise platforms, cloud infrastructure, and now autonomous AI systems.
 
-Research interests
+## Research interests      
+- Large Language Models (LLMs) and transformer architectures
+- Diffusion models and probabilistic generative systems
+- Agentic and autonomous AI systems
+- AI observability, governance, and control
+- Data-driven decision systems for institutions
 
-Large Language Models (LLMs) and transformer architectures
+## Writing & research
 
-Diffusion models and probabilistic generative systems
-
-Agentic and autonomous AI systems
-
-AI observability, governance, and control
-
-Data-driven decision systems for institutions
-
-Writing & research
-
-I write and publish on AI systems, diffusion models, and applied architectures, with an emphasis on engineering rigor and deployment reality.
+I write and publish on AI systems, diffusion models, and applied architectures, with an emphasis on __engineering rigor__ and __deployment reality__.</br>
 If a system cannot be operated, audited, or sustained, I consider it incomplete.
 
 ### Outside the keyboard
