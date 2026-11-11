@@ -32,6 +32,7 @@ A concise, high-impact paragraph highlighting your core expertise, key industry 
 * **Thinking Cybersecurity: AI Automation through Diffused Intelligence
 (1 formats & editions):** *Cambridge Scholars Publishing ISBN 9781036483272 (28 October 2026)* 
 * **Journal Paper:** "[GIP] 빅데이터의 중요성- 미 국세청의 사례" - *NIPA (National IT Publication Agency) & Global ICT Portal (GIP) of the Republic of Korea* (2021).​https://doi.org/10.5281/zenodo.5039621.
+* **Periodical Article:** "Cardiac Pacemakers: A Closer Look at Technological Innovations" - *Medhealth Outlook (2022). https://doi.org/10.6084/m9.figshare.21096010.
 
 ## Education
 * **B.S. in Electronic Engineering** - Universidade Mackkenzie
