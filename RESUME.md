@@ -31,7 +31,7 @@ A concise, high-impact paragraph highlighting your core expertise, key industry 
 (2 formats & editions):** *Zinnia Labs Publishing ISBN 9798234293787 (7 November 2026)* 
 * **Thinking Cybersecurity: AI Automation through Diffused Intelligence
 (1 formats & editions):** *Cambridge Scholars Publishing ISBN 9781036483272 (28 October 2026)* 
-* **Journal Paper:** "Title of the Paper" - *Journal Name* (2026). DOI/Link.
+* **Journal Paper:** "[GIP] 빅데이터의 중요성- 미 국세청의 사례" - *NIPA (National IT Publication Agency) & Global ICT Portal (GIP) of the Republic of Korea* (2021).​https://doi.org/10.5281/zenodo.5039621.
 
 ## Education
 * **B.S. in Electronic Engineering** - Universidade Mackkenzie
